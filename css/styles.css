@@ -206,13 +206,7 @@ img {
     var(--background-hero)
   ),
   url(/imeges/hero-img.jpg);
- 
-  /* background-repeat: no-repeat; */
-  /* background-position: center; */
-  /* background-size: cover;  */
-
-  /* background-color: var(--background-hero); */
-  
+    
 }
 
 .hero-title {
